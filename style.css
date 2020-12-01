@@ -1,0 +1,28 @@
+html {
+  background-image: url('architecture.jpeg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+.textblock {
+  margin: 30px 45% 50px 100px;
+  background-color: rgba(31, 153, 214, 0.774);
+  padding: 25px;
+}
+
+h1 {
+  margin-left: 100px;
+  color: rgb(73, 64, 72); 
+}
+
+h2 {
+  margin-left: 100px;
+  color: rgb(73, 64, 72); 
+}
+
+p {
+  margin-top: 0;
+  text-align: justify;
+  color: rgb(73, 64, 72); 
+}
